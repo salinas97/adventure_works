@@ -14,9 +14,3 @@ sources:
       - name: stateprovince
       - name: countryregion
       - name: product
-        columns:
-        - name: productid
-          tests:
-           - unique
-           - not_null
-
